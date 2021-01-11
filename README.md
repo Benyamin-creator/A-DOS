@@ -23,6 +23,6 @@ by several people (10 to 15 people)
 
 python2 D-dos.py 
 
-python H-Dos 
+python H-Dos.py
 
 # CODED By: Benyamin-creator (RED-SOCIAL)
