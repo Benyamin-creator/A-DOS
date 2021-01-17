@@ -1,4 +1,4 @@
-# HACK-CAM 
+# A-DOS
 Tool that is used for Dos attacks
  on web pages, 
 but it is done with 
